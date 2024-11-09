@@ -1,0 +1,7 @@
+res://scenes/main.tscn
+res://script/main.gd
+res://script/Bicicleta.gd
+res://script/Caminhao.gd
+res://script/Carro.gd
+res://script/main2.gd
+res://script/Moto.gd
