@@ -3,7 +3,7 @@ extends Node
 @onready var Leao = preload("res://script/Girafa.gd")
 @onready var Elefante = preload("res://script/Macaco.gd")
 @onready var Macaco = preload("res://script/Macaco.gd")
-@onready var Girafa = preload("res://script/Leao.gd")
+@onready var Girafa = preload("res://script/Leao.gd") #só pra mudar o commit
 
 func _ready() -> void:
 	var giraff = Girafa.new(2, 6)
