@@ -1,11 +1,14 @@
 extends Node
 
+var peso: int = 0
+var memoria: int = 0
 
-# Called when the node enters the scene tree for the first time.
-func _ready() -> void:
-	pass # Replace with function body.
+func _init(peso: int, memoria: int) -> void:
+	self.peso = peso
+	self.memoria = memoria
 
+func pisar() -> void:
+	print("O Elefante pisa com um impacto de: ", peso, " kg.")
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
-	pass
+func lembrar() -> void:
+	print("O Elefante tem uma memória de: ", memoria, " itens.")

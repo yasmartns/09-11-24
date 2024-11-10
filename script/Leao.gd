@@ -1,11 +1,14 @@
 extends Node
 
+var forca: int = 0
+var velocidade: int = 0
 
-# Called when the node enters the scene tree for the first time.
-func _ready() -> void:
-	pass # Replace with function body.
+func _init(forca: int, velocidade: int) -> void:
+	self.forca = forca
+	self.velocidade = velocidade
 
+func rugir() -> void:
+	print("O Leão rugiu com força de: ", forca)
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
-	pass
+func correr() -> void:
+	print("O Leão está correndo a uma velocidade de: ", velocidade)
