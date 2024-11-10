@@ -1,0 +1,17 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1731193744
+icon.svg::CompressedTexture2D::4904843322114530897::1731193744::1731194445::1::::<><>::
+README.md::TextFile::-1::1731187902::0::1::::<><>::
+::res://scenes/::1731193744
+main.tscn::PackedScene::3547558221057472321::1731191122::0::1::::<><>::
+::res://script/::1731193744
+Arqueiro.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+Bicicleta.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+Caminhao.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+Carro.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+Curandeiro.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+Guerreiro.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+Mago.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+main.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+Moto.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
+main2.gd::GDScript::-1::1731193744::0::1::::<>Node<>::
