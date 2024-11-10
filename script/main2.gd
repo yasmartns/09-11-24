@@ -1,9 +1,9 @@
 extends Node
 
 @onready var Carro = preload("res://script/Carro.gd")
-@onready var Moto = preload("res://scripts/Moto.gd")
-@onready var Caminhao = preload("res://scripts/Caminhao.gd")
-@onready var Bicicleta = preload("res://scripts/Bicicleta.gd")
+@onready var Moto = preload("res://script/Moto.gd")
+@onready var Caminhao = preload("res://script/Caminhao.gd")
+@onready var Bicicleta = preload("res://script/Bicicleta.gd")
 
 
 
